@@ -2,3 +2,5 @@
 Kenzo Ku's User Page
 
 My favorite programming language is Python because it has a lot of built-in libraries that are very useful
+
+https://kenzoputraku.github.io/CSE110-lab1/
