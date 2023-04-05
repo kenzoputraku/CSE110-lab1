@@ -1,4 +1,5 @@
 # Kenzo Ku's User Page
+![kenzo picture](kenzoku.HEIC)
 ## About Me:
 ### Bachelor of Science: Computer Science at University of California San Diego
 
@@ -39,7 +40,7 @@ You can find my github [repository](https://github.com/kenzoputraku) here.
 - [ ] Get an internship
 
 
-[Image of Kenzo Ku](kenzoku.HEIC)
+
 
 [README.md](README.md)
 
