@@ -41,6 +41,8 @@ You can find my github [repository](https://github.com/kenzoputraku) here.
 
 [Image of Kenzo Ku](kenzoku.HEIC)
 
+[README.md](README.md)
+
 
 
 
