@@ -1,5 +1,5 @@
 # Kenzo Ku's User Page
-![kenzo picture](kenzoku.HEIC)
+![kenzo picture](kenzoku.jpeg)
 ## About Me:
 ### Bachelor of Science: Computer Science at University of California San Diego
 
